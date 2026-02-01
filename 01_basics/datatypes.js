@@ -1,4 +1,4 @@
-"use strict" // tells compiler to treat all js code as newer version and follow new standards 
+"use strict";// tells compiler to treat all js code as newer version and follow new standards 
 
 // alert( 3+3 ) // we are using node.js not browser 
 

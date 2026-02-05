@@ -27,5 +27,3 @@ console.log(typeof "lucky")
 // null ka type is object 
 // undefined ka type is undefined 
 // string ka string bla bla bla 
-
-
